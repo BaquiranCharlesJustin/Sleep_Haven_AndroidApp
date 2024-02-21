@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="Login">Login\n</string>
+    <string name="Logout">Logout</string>
+    <string name="Register">Register to Sleep Haven\n</string>
+    <string name="app_name">SleepHaven_prototype</string>
+    <string name="click_to_login">Click To Login\n</string>
+    <string name="click_to_register">Click To Register</string>
+    <string name="email">Email\n</string>
+    <string name="gcm_defaultSenderId" translatable="false">203978008546</string>
+    <string name="google_api_key" translatable="false">AIzaSyCFQAp81x9NPxrayvmV2ewqZDaurLTH2W4</string>
+    <string name="google_app_id" translatable="false">1:203978008546:android:d437462883c61d359dbbbb</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCFQAp81x9NPxrayvmV2ewqZDaurLTH2W4</string>
+    <string name="google_storage_bucket" translatable="false">sleep-haven.appspot.com</string>
+    <string name="password">Password\n</string>
+    <string name="project_id" translatable="false">sleep-haven</string>
+    <string name="register">Register\n</string>
+    <string name="welcome">Welcome To Sleep Haven</string>
+    <style name="Base.Theme.Sleep_Haven_Prototype_LegitNaTo" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Sleep_Haven_Prototype_LegitNaTo" parent="Base.Theme.Sleep_Haven_Prototype_LegitNaTo"/>
+</resources>
